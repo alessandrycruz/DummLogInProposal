@@ -1,4 +1,4 @@
-# DummLogInProposal
+# DummyLogInProposal
 
 Log In Proposal In Android Studio
 
